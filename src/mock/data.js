@@ -40,6 +40,17 @@ export const projectsData = [
     url: 'https://rrosann.github.io/facerecognition/',
     repo: 'https://github.com/RROSANN/facerecognition/tree/master', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project2.PNG',
+    title: 'Multiplication Table',
+    info:
+      'It is a simple fun app that will test your multiplication table, check it and tell me what score did you got',
+    info2:
+      'The app was created for my little brother to find a more exiting way to learn it, it was buildt with plain javascript, sorry for the ugly colors, I am just not a designer and don t know how to make colors go well toghether...I am sorry u have to see my poor design skills',
+    url: 'https://rrosann.github.io/multiplication-table/',
+    repo: 'https://github.com/RROSANN/multiplication-table/tree/master', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
