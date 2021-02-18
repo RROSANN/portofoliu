@@ -47,9 +47,29 @@ export const projectsData = [
     info:
       'It is a simple fun app that will test your multiplication table, check it and tell me what score did you got',
     info2:
-      'The app was created for my little brother to find a more exiting way to learn it, it was buildt with plain javascript, sorry for the ugly colors, I am just not a designer and don t know how to make colors go well toghether...I am sorry u have to see my poor design skills',
+      'The app was created for my little brother to find a more exiting way to learn it, it was buildt with plain javascript, sorry for the ugly colors, I am just not a designer and don t know how to make colors go well toghether...I am sorry u have to see my poor color taste',
     url: 'https://rrosann.github.io/multiplication-table/',
     repo: 'https://github.com/RROSANN/multiplication-table/tree/master', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project3.PNG',
+    title: 'Simple App Landing Page',
+    info:
+      'It is a simple landing page created using HTML, CSS and Bootstrap 5, this page was created in order to have a simple page that is fully responsive at different sizes, it should work perfectly in whatever size your device is, wether is mobile or desktop',
+    info2: 'Check it out using the links below :)',
+    url: 'https://rrosann.github.io/landing-page-app/',
+    repo: 'https://github.com/RROSANN/landing-page-app', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project4.PNG',
+    title: 'Simple Example Page',
+    info:
+      'It is a simple client landing page created using HTML, CSS and Bootstrap 5, I plan to use this app as an mini example on something like upwork/freelancer or fiverr, try it or maybe send me an email hwo would you like me to improve it',
+    info2: 'Thanks :)',
+    url: 'https://rrosann.github.io/website/',
+    repo: 'https://github.com/RROSANN/website', // if no repo, the button will not show up
   },
 ];
 
